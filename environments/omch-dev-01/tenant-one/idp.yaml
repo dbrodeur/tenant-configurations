@@ -3,4 +3,4 @@ tenant:
   name: tenant-one
   chart: idp
   sync:
-    wave: "3"
+    wave: "1"

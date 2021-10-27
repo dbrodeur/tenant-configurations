@@ -1,3 +1,5 @@
 name: tenant-one
 configuration:
   path: "environments/omch-dev-01/tenant-one/*.yaml"
+
+https://raw.githubusercontent.com/dbrodeur/tenant-configurations/main/environments/omch-dev-01/tenant-one.yaml

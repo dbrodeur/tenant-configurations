@@ -3,4 +3,4 @@ tenant:
   name: tenant-one
   chart: core
   sync:
-    wave: "2"
+    wave: "-1"
