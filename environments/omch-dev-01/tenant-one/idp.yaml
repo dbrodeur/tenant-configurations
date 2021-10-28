@@ -4,5 +4,7 @@ tenant:
   chart: idp
   sync:
     wave: "1"
-netcat-http:
-  version: "2.2.2"
+configuration:
+  paths:
+    directories:
+      - path: environments/omch-dev-01/tenant-one/idp/*
