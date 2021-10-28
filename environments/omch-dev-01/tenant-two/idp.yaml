@@ -4,3 +4,7 @@ tenant:
   chart: idp
   sync:
     wave: "1"
+configuration:
+  paths:
+    directories:
+      - path: "environments/omch-dev-01/tenant-one/idp/*"
