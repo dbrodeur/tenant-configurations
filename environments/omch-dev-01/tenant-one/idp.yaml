@@ -6,5 +6,5 @@ tenant:
     wave: "1"
 configuration:
   paths:
-    files:
-    - path: "environments/omch-dev-01/tenant-one/idp/*.yaml"
+    directories:
+    - path: "environments/omch-dev-01/tenant-one/idp"

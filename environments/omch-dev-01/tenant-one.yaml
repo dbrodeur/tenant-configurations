@@ -1,5 +1,5 @@
 name: tenant-one
 configuration:
   paths:
-    files:
-    - path: "environments/omch-dev-01/tenant-one/*.yaml"
+    directories:
+    - path: "environments/omch-dev-01/tenant-one"
