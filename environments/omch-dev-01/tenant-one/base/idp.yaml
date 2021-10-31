@@ -1,4 +1,4 @@
-self: "https://raw.githubusercontent.com/dbrodeur/tenant-configurations/main/environments/omch-dev-01/tenant-one/idp.yaml"
+self: "https://raw.githubusercontent.com/dbrodeur/tenant-configurations/main/environments/omch-dev-01/tenant-one/base/idp.yaml"
 tenant:
   name: tenant-one
   chart: idp

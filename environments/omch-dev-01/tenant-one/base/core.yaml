@@ -1,4 +1,4 @@
-self: "https://raw.githubusercontent.com/dbrodeur/tenant-configurations/main/environments/omch-dev-01/tenant-one/core.yaml"
+self: "https://raw.githubusercontent.com/dbrodeur/tenant-configurations/main/environments/omch-dev-01/tenant-one/base/core.yaml"
 tenant:
   name: tenant-one
   chart: core
