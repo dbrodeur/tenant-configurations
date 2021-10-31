@@ -1,0 +1,7 @@
+self: "https://raw.githubusercontent.com/dbrodeur/tenant-configurations/main/environments/omch-dev-01/tenant-one/idp/idp-netcat-http-1.2.5.yaml"
+tenant:
+  name: tenant-one
+  chart: netcat-http
+  sync:
+    wave: 1
+version: 1.2.5
