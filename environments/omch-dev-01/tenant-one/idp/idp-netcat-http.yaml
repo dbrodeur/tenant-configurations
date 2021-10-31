@@ -4,4 +4,4 @@ tenant:
   chart: netcat-http
   sync:
     wave: 1
-version: 6.5.7
+version: 3.3.3
