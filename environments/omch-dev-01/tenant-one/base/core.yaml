@@ -1,6 +1,8 @@
 self: "https://raw.githubusercontent.com/dbrodeur/tenant-configurations/main/environments/omch-dev-01/tenant-one/core.yaml"
 tenant:
   name: tenant-one
+  project: tenant-one
+  namespace: tenant-one
   chart: core
   sync:
     wave: "-1"

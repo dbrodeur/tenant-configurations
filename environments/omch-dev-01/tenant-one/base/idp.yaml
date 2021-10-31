@@ -1,6 +1,8 @@
 self: "https://raw.githubusercontent.com/dbrodeur/tenant-configurations/main/environments/omch-dev-01/tenant-one/idp.yaml"
 tenant:
-  name: argocd
+  name: tenant-one
+  projecT: default
+  namespace: argocd
   chart: idp
   sync:
     wave: "1"
