@@ -1,6 +1,3 @@
-tenant:
-  name: tenant-one
-  namespace: tenant-one
 configuration:
   paths:
     files:
