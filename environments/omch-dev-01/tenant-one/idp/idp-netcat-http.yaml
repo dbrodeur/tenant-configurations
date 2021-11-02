@@ -2,6 +2,7 @@ self: "https://raw.githubusercontent.com/dbrodeur/tenant-configurations/main/env
 tenant:
   name: tenant-one
   chart: netcat-http
+  revision: v1.0.0
   sync:
     wave: 1
 version: 9.9.9
